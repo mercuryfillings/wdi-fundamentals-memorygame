@@ -1,0 +1,29 @@
+h1 {
+	font-family: raleway, sans-serif;
+	color: #0d2c40;
+	letter-spacing: 1px;
+	font-weight: 400;
+	font-size: 45px;
+}
+
+h2 {
+	font-family: raleway, sans-serif;
+	color: #0d2c40;
+	letter-spacing: 1px;
+	font-weight: 600;
+	font-size: 20px;
+}
+
+a {
+	font-family: raleway, sans-serif;
+	color: #f15b31;
+	letter-spacing: 1px;
+	font-weight: 600;
+	font-size: 18px;
+}
+
+p {
+	font-family: "droid serif", sans-serif;
+	line-height: 26px;
+	font-size: 18px;
+}
